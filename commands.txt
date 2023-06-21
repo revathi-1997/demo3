@@ -1,0 +1,1 @@
+ssh -i "C:\Users\revat\Downloads\vmachine_key.pem" azureuser@20.193.129.5
